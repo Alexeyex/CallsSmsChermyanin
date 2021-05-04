@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CallsSmsChermyanin</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="sms_message">SMS сообщение</string>
+    <string name="to_call">Звоним</string>
+    <string name="to_send">Оправляем</string>
+</resources>
